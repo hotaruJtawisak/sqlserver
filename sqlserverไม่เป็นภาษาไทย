@@ -1,0 +1,1 @@
+วิธีแก้ ภาษาไทยบน sqlserver ก็คือ สร้าง database ขึ้นเองโดยไม่ได้ gen เพราะ แบบ ใช้dotnet ef database update มันสร้างให้จะไม่ได้แล้ว  คอแลคชั่นก็ เป็น thai_ci_ai สร้างเสร็จก็ใช้คำสั่ง dotnet ef database updateนั้นแหละแล้วได้เลย
